@@ -1,0 +1,73 @@
+﻿body {
+    background-color: lightpink;
+}
+
+
+h1 {
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+    color: #cf1771;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/*h2 {
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+    padding-left: 200px;
+    color: black;
+    align-content: center;
+    font-style: italic;
+}*/
+
+p.mb-0 {
+    font-family: 'Lucida Handwriting';
+}
+
+/*div.principale {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    border-style: inset;
+    border-color: hotpink;
+    border-width: 5px;
+    background-image: url(https://images.designtrends.com/wp-content/uploads/2015/12/09125925/Pink-Flower-Patterns.jpg);
+}
+
+h2 {
+    background-color: rgb(255 255 255 / 0.6);
+    display: inline;
+    font-weight: bold;
+    font-style: italic;
+}
+
+ul {
+    width: 20%;
+    margin: auto;
+    padding-right: 50px;
+    list-style-type: none;
+    background-color: rgb(255 255 255 / 0.6);
+}
+
+a {
+    text-decoration: none;
+    font-size: 25px;
+    font-style: italic;
+    color: black;
+}
+
+a:hover {
+    background-color: royalblue;
+}
+
+#footer {
+    position: fixed;
+    left: 0px;
+    bottom: 20px;
+    left: 5px;
+    height: 30px;
+    width: 100%;
+    font-size: 20px;
+}*/

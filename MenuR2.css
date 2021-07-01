@@ -1,0 +1,19 @@
+﻿body {
+    background-color: lightpink;
+}
+
+
+h2 {
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+    color: #cf1771;
+    font-style: italic;
+}
+
+
+p.mb-0 {
+    font-family: 'Lucida Handwriting';
+}
+
+
